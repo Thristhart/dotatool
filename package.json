@@ -1,0 +1,19 @@
+{
+  "name": "dotatool",
+  "version": "0.0.1",
+  "description": "A website for managing dota grid layouts and making queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thristhart/dotatool.git"
+  },
+  "author": "thristhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thristhart/dotatool/issues"
+  },
+  "homepage": "https://github.com/Thristhart/dotatool"
+}
